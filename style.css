@@ -1,0 +1,35 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.nav ul li {
+    display: inline-flex;
+    flex: content;
+    text-align: justify;
+    justify-content: space-between;
+    padding-left: 2px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-top: 30px;
+    float: right;
+
+} 
+ul li{
+  float: right;
+}
+
+#B{
+  background-color: blueviolet;
+  border-radius: 30px;
+  
+}
+.image img{
+  position: absolute;
+  width: 500;
+  height: 700;
+  margin-left: 35%;
+margin-top: -30%;
+  
+}
